@@ -7,4 +7,4 @@ può essere utilizzato per memorizzare le funzioni.
 
 In questo esempio modifichiamo l'app delle cose da fare *todos* utilizzando l'hook useCallback.
 
-https://codesandbox.io/s/react-hook-usememo-0f9y9
+https://codesandbox.io/s/react-hook-usecallback-o300v
